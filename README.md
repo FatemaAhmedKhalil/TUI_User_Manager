@@ -22,6 +22,6 @@ To run this script, your system must have:
 
 1. Clone this repository or download the script:
    ```bash
-   git clone [https://github.com/yourusername/TUI_User_Manager.git](https://github.com/yourusername/TUI_User_Manager.git)
+   git clone https://github.com/FatemaAhmedKhalil/TUI_User_Manager
    cd TUI_User_Manager
    ```
