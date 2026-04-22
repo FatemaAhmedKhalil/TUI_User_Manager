@@ -21,7 +21,7 @@ To run this script, your system must have:
 ## 🛠️ Usage
 
 1. Clone this repository or download the script:
-   ```bash
-   git clone https://github.com/FatemaAhmedKhalil/TUI_User_Manager
-   cd TUI_User_Manager
-   ```
+```bash
+git clone https://github.com/FatemaAhmedKhalil/TUI_User_Manager
+cd TUI_User_Manager
+```
